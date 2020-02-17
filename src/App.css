@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  
+}
+
+.App-intro {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+}
+
+.title-header{
+  background-color: black;
+  color: white;
+  font-size: 3rem;
+  margin-top: -4% ;
+}
+
+.imgStyle{
+  width: 60%;
+ 
+}
+.box-img{
+  padding: 2%;
+}
+
+
